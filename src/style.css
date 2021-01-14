@@ -14,13 +14,14 @@ body {
 }
 
 .inner_border {
-  padding: 10px;
   background-color: #ffa500;
-  border: 1px solid #e75551;
 }
 
 .outer_border {
-  padding: 10px;
   background-color: #ddd;
-  border: 1px solid #e75551;
+}
+
+.repeated-styles {
+   padding: 10px;
+   border: 1px solid #e75551;
 }
